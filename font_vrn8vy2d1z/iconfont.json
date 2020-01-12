@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "515420",
+      "name": "音乐_music217",
+      "font_class": "yinlemusic217",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "775334",
+      "name": "音乐_music216",
+      "font_class": "yinlemusic216",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "866407",
+      "name": "音乐_music214",
+      "font_class": "yinlemusic214",
+      "unicode": "e9c4",
+      "unicode_decimal": 59844
+    },
+    {
+      "icon_id": "866408",
+      "name": "音乐_music215",
+      "font_class": "yinlemusic215",
+      "unicode": "e9c5",
+      "unicode_decimal": 59845
+    },
+    {
+      "icon_id": "880306",
+      "name": "音乐",
+      "font_class": "yinlemusic2141",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}
